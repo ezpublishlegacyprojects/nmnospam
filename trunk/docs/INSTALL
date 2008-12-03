@@ -1,0 +1,5 @@
+1. upload and activate extension
+2. if you haven't a script to auto-include javascriptfiles in your pagelayout 
+
+{include uri="design:include_js.tpl"}
+3. Download lastest jquery and include it above the include_js.tpl http://docs.jquery.com/Downloading_jQuery#Current_Release

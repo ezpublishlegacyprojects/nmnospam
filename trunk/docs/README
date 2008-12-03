@@ -1,0 +1,4 @@
+NM No Spam crypts the mailadresses in the datatype ezemail. 
+The extension is based upon jquery, and you need to include jquery to make this work.
+
+This extension is tested on eZ Publish 4.0.1
